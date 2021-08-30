@@ -1,0 +1,26 @@
+{
+  "name": "babble-party",
+  "version": "1.0.0",
+  "description": "A Chat Application for group activities.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-liraj-khanna/Babble-Party.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Express",
+    "JS",
+    "Sockets.io"
+  ],
+  "author": "N Liraj Khanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-liraj-khanna/Babble-Party/issues"
+  },
+  "homepage": "https://github.com/N-liraj-khanna/Babble-Party#readme"
+}
