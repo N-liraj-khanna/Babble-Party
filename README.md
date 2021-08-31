@@ -17,7 +17,7 @@
 <p align="center"> 🤖 
     <br> 
     <br> 
-<img src="https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif" alt="A GIF BOT"/>
+<img width=600 height=400 src="https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif" alt="A GIF BOT"/>
 </p>
 
 
